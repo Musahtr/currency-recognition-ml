@@ -1,4 +1,4 @@
-# 🇳🇬 AI-Powered Nigerian Currency Recognition and Intelligent Cash Processing System
+# AI-Powered Nigerian Currency Recognition and Intelligent Cash Processing System
 
 An end-to-end deep learning project that automatically recognizes Nigerian Naira denominations from images using Computer Vision and Convolutional Neural Networks (CNNs). This project serves as the first phase of developing an intelligent cash-processing system capable of recognizing currency denominations and laying the foundation for future counterfeit detection, damaged-note identification, and integration with electronic note-counting machines.
 
