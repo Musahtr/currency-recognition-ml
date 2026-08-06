@@ -30,3 +30,4 @@ outputs/
 # Operating System Files
 .DS_Store
 Thumbs.db
+notebooks/02_preprocessing.ipynb
